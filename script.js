@@ -360,7 +360,7 @@ const scheduleData = [
       { time: "7:30 AM", highlighted: false },
       { time: "7:30 AM", highlighted: false },
       { time: "7:30 AM", highlighted: false },
-      { time: "OFF", highlighted: false },
+      { time: "7:30 AM", highlighted: false },
       { time: "9:00 AM", highlighted: true }
     ]
   },
@@ -373,7 +373,7 @@ const scheduleData = [
       { time: "7:30 AM", highlighted: false },
       { time: "7:30 AM", highlighted: false },
       { time: "OFF", highlighted: false },
-      { time: "7:30 AM", highlighted: false },
+      { time: "OFF", highlighted: false },
       { time: "OFF", highlighted: false }
     ]
   },
