@@ -398,8 +398,8 @@ const scheduleData = [
       { time: "OFF", highlighted: false },
       { time: "OFF", highlighted: false },
       { time: "OFF", highlighted: false },
-      { time: "7:30 AM", highlighted: false },
       { time: "OFF", highlighted: false },
+      { time: "7:30 AM", highlighted: false },
       { time: "OFF", highlighted: false }
     ]
   },
